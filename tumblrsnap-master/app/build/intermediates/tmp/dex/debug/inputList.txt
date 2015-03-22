@@ -1,0 +1,9 @@
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/classes/debug
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-utils-aef16971e5b295dbd2963171e223304921cfd734.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-d6bb417e0f98d21bd9ded5041d2cfd1de3f4cf98.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-c8452c927635519239c5c8653f731e79651239ba.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-d1a45d9b57fdfb599e7a712219f092a85eb0add4.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-2f657b7c408faf06ba3594d2969101c9d5c3c84e.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/scribe-acac050d3d654cd81d66762e45d713b1af998911.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/androidjhlabs-5cf5a6ed141797d88cfba6192f64687e927c2e1a.jar
+/Users/avkadam/git/tumblrSnap_clone1/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-42ff8cace29b630e653070b58db4c19b21114609.jar
